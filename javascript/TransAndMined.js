@@ -1,4 +1,4 @@
-//加旷工奖励.
+//加旷工奖励
 
 const SHA256 = require("crypto-js/sha256");
 
